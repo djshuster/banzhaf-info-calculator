@@ -4,7 +4,7 @@ The Banzhaf power index of a given voter is a metric of the voter's power in a w
 By examining a party's Banzhaf index and comparing it to the number of votes given to those parties in their election into parliament, we can measure how much power a given individual voter is effectively getting by voting for a party.
 
 # How Do I Use It?
-This program takes in data from electionData.csv and outputs the "Ratio of Banzhaf Index to Fraction of Vote" for each party in results.csv.
+You will want to run banzhaf_info.py. This program takes in data from electionData.csv and outputs the "Ratio of Banzhaf Index to Fraction of Vote" for each party in results.csv.
 The current use focuses on the Israeli Parliamentary ("Knesset") election from March 2020 with respect to the approval of a prime minister nominee, which requires 61/120 votes.
 
 To use this program for a different election, follow these 3 steps:
