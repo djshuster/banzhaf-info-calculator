@@ -17,9 +17,9 @@ To use this program for a different election, follow these 3 steps:
 (3) After running the program, in results.csv, change the column A header to the appropriate political bodies' title.
 
 # Data Sources
-Data for the specific example election is taken from [here] (https://knesset.gov.il/description/eng/eng_mimshal_res23.htm).
+Data for the specific example election is taken from [here](https://knesset.gov.il/description/eng/eng_mimshal_res23.htm).
 
-Other years for the Knesset can be found [here] (https://main.knesset.gov.il/EN/mk/Pages/Elections.aspx).
+Other years for the Knesset can be found [here](https://main.knesset.gov.il/EN/mk/Pages/Elections.aspx).
 
 # Contact Me
 Did you encounter a bug in my application? Do you want to request a new feature? Have a funny meme for me? Feel free to email me at djs.shuster@gmail.com.
