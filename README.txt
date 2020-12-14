@@ -16,7 +16,7 @@ This program takes in data from electionData.csv and outputs the "Ratio of Banzh
 In particular, the current use focuses on the Israeli Parliamentary ("Knesset") election from March 2020 with respect to the approval of a prime minister nominee,
 which requires 61/120 votes.
 
-To use this program for a different election, follow these 2 steps:
+To use this program for a different election, follow these 3 steps:
 (1) Change the electionsData.csv file to reflect the information from the new election. Note that only columns A, C, and D are necessary.
 (2) The default quota is 61. To use a different quota, enter the new quota as a whole number in the command line when running the program.
 For example "py banzhaf_info.py 90" will set the quota to 90.
