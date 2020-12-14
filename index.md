@@ -1,4 +1,5 @@
 # What Is It?
+<img src="Images/vote-pic.jpeg" alt="example of graph output" width="40%" height="40%" align="right"/>
 The Banzhaf power index of a given voter is a metric of the voter's power in a weighted voting system, where some quota must be reached to pass a motion. For instance, in a parliamentary democracy, different parties may form voting blocs, towards approving a prime minister nominee by strict majority. For more information on the Banzhaf index, check out Chapter 8 of _The Mathematics of Voting and Elections: a Hands-On Approach_, American Mathematical Society, 2018, by Jonathan K. Hodge and Richard E. Klima, or you can just read the [Wikipedia article](https://en.wikipedia.org/wiki/Banzhaf_power_index).
 
 By examining a party's Banzhaf index and comparing it to the number of votes given to those parties in their election into parliament, we can measure how much power a given individual voter is effectively getting by voting for a party.
