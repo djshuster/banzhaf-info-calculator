@@ -7,19 +7,21 @@ By examining a party's Banzhaf index and comparing it to the number of votes giv
 This program takes in data from electionData.csv and outputs the "Ratio of Banzhaf Index to Fraction of Vote" for each party in results.csv.
 The current use focuses on the Israeli Parliamentary ("Knesset") election from March 2020 with respect to the approval of a prime minister nominee, which requires 61/120 votes.
 
-To use this program for a different election, follow these 2 steps:
+To use this program for a different election, follow these 3 steps:
+
 (1) Change the electionsData.csv file to reflect the information from the new election. Note that only columns A, C, and D are necessary.
-(2) The default quota is 61. To use a different quota, enter the new quota as a whole number in the command line when running the program.
-For example "py banzhaf_info.py 90" will set the quota to 90.
+
+(2) The default quota is 61. To use a different quota, enter the new quota as a whole number in the command line when running the program. For example "py banzhaf_info.py 90" will set the quota to 90.
+
 (3) After running the program, in results.csv, change the column A header to the appropriate political bodies' title.
 
 # Data Sources
 Data for the specific example election is taken from https://knesset.gov.il/description/eng/eng_mimshal_res23.htm.
+
 Other years for the Knesset can be found at https://main.knesset.gov.il/EN/mk/Pages/Elections.aspx.
 
 # Contact Me
-Did you encounter a bug in my application? Do you want to request a new feature? Have a funny meme for me?
-Feel free to email me at djs.shuster@gmail.com.
+Did you encounter a bug in my application? Do you want to request a new feature? Have a funny meme for me? Feel free to email me at djs.shuster@gmail.com.
 
 # Acknowledgements
 My gratitude to Professor Tanya Leise for teaching me much about the mathematics behind voting systems and sparking my interest in the topic!
